@@ -1,0 +1,3 @@
+state = {
+  name: localStorage("name") || "",
+};

@@ -1,0 +1,50 @@
+index 
+app
+
+assignmentList
+assignmentDetails
+
+Profile
+  Edit Profile
+  View Profile
+
+Tasks
+  Task management
+
+Permissions
+
+Preferences*
+
+
+
+Expected changes: 
+--------------------------------------------------------------
+
+
+Please note the following points while designing registration procedure:
+1) in registration procedure group leader will be just adding roll number and names of group members..
+2) project topic, guide details addition will be done later on edit project info page...
+3) project title approval will be done by project coordinator so it's like a temporary token initially after checking with previous 3year list
+4)guide allotment will be done like a request response from student leader to favulty...
+Or project title can be made as an assignment...
+Just like a form field entry... normally we give a deadline for it...
+But make sure there is edit rights for project title edit title later on also..as it can be updated later stage also...
+
+
+  remove coord name
+  add edit guide option
+  
+  
+  remove grades and show submission status
+  friend request feature
+  have a look on these sites for  more features   : 
+    Anooja: Schooldash
+    Canvas
+    School ogy
+    Blackboard
+    Canvas.instructure.com
+    Proctor track with canvas
+Change layout...should not be similar to classroom...noooo
+maam boli ki layout is fine ... we need to add some more and different features
+    
+  remove coordinator name from student profile
